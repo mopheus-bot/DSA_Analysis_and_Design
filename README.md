@@ -1,4 +1,5 @@
 # DSA: Analysis and Design
+C++, Data Structures, Hash Table, CSV Parsing, Performance, Algorithms. CS300
 
 Throughout this course, I learned about different data structures, their strengths and weaknesses,
 and how to evaluate their efficiency. The problem that needed to be solved for this project was to evaluate
